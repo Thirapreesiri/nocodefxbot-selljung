@@ -19,23 +19,23 @@ interface SiteConfig {
 }
 
 const siteConfig: SiteConfig = {
-  title: "NoCode FXBot - สร้าง EA แบบ No Code และใช้ AI สร้าง EA",
+  title: "NoCode makemoneyrich - สร้าง EA แบบ No Code และใช้ AI สร้าง EA",
   description: "สร้าง Expert Advisor (EA) สำหรับ Forex Trading แบบ No Code ด้วย AI ที่ช่วยให้คุณสร้าง EA ได้อย่างง่ายดาย",
   bannerImage: "/img/fx5.png",
-  lineUrl: "https://line.me/ti/p/~@yourlineaccount",
+  lineUrl: "https://line.me/ti/g2/GMSI5FKuMhZvzToddMEMO5ogrEL8fWd6R_P2nw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default",
   aiGeneratorImage: "/img/fx4.png",
   brokerImage: "/img/fx5.png",
   brokerSignupText: "สมัครสมาชิกตอนนี้",
-  brokerSignupUrl: "https://www.xm.com/th/register",
+  brokerSignupUrl: "https://clicks.pipaffiliates.com/c?c=54261&l=th&p=5401",
   webhookUrl: "https://hook.eu1.make.com/yourwebhookid",
-  logoText: "OooO 55 FX",
-  footerLogoText: "NoCode FXBot",
-  footerCopyright: " 2025 NoCode FXBot. สงวนลิขสิทธิ์.",
-  contactAddress: "123 ถนนสุขุมวิท กรุงเทพมหานคร 10110",
+  logoText: "makemoneyrich",
+  footerLogoText: "makemoneyrich",
+  footerCopyright: " 2025 makemoneyrich.com สงวนลิขสิทธิ์.",
+  contactAddress: "71 ถนนสุขุมวิท กรุงเทพมหานคร 10110",
   contactPhone: "02-123-4567",
-  contactEmail: "contact@nocodefxbot.com",
-  eaCopyright: "NoCode FXBot",
-  eaWebsite: "https://www.nocodefxbot.com/"
+  contactEmail: "https://makemoneyrich.com/",
+  eaCopyright: "makemoneyrich",
+  eaWebsite: "https://makemoneyrich.com/"
 };
 
 export default siteConfig;
