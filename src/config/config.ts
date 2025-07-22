@@ -19,7 +19,7 @@ interface SiteConfig {
 }
 
 const siteConfig: SiteConfig = {
-  title: "NoCode makemoneyrich - สร้าง EA แบบ No Code และใช้ AI สร้าง EA",
+  title: "NoCode piplab - สร้าง EA แบบ No Code และใช้ AI สร้าง EA",
   description: "สร้าง Expert Advisor (EA) สำหรับ Forex Trading แบบ No Code ด้วย AI ที่ช่วยให้คุณสร้าง EA ได้อย่างง่ายดาย",
   bannerImage: "/img/fx5.png",
   lineUrl: "https://line.me/ti/g2/GMSI5FKuMhZvzToddMEMO5ogrEL8fWd6R_P2nw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default",
@@ -28,14 +28,14 @@ const siteConfig: SiteConfig = {
   brokerSignupText: "สมัครสมาชิกตอนนี้",
   brokerSignupUrl: "https://clicks.pipaffiliates.com/c?c=54261&l=th&p=5401",
   webhookUrl: "https://hook.eu1.make.com/yourwebhookid",
-  logoText: "makemoneyrich",
-  footerLogoText: "makemoneyrich",
-  footerCopyright: " 2025 makemoneyrich.com สงวนลิขสิทธิ์.",
+  logoText: "piplab",
+  footerLogoText: "piplab",
+  footerCopyright: " 2025 piplab.us สงวนลิขสิทธิ์.",
   contactAddress: "71 ถนนสุขุมวิท กรุงเทพมหานคร 10110",
   contactPhone: "02-123-4567",
-  contactEmail: "https://makemoneyrich.com/",
-  eaCopyright: "makemoneyrich",
-  eaWebsite: "https://makemoneyrich.com/"
+  contactEmail: "https://www.piplab.us/",
+  eaCopyright: "piplab",
+  eaWebsite: "https://www.piplab.us/"
 };
 
 export default siteConfig;
